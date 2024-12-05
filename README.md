@@ -21,7 +21,7 @@ Ce projet met en œuvre un système de services web composites pour l'évaluatio
 
 ## Installation et Déploiement
 1. Clonez le dépôt :
-   git clone https://github.com/username/loan-evaluation-system.git
+   https://github.com/SarraBrahem/Loan-Evaluation-System.git
    cd loan-evaluation-system
    
 Configurez un environnement Python (3.x recommandé) :
