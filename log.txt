@@ -1,0 +1,135 @@
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur de conversion : Expecting value: line 1 column 1 (char 0)
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur de conversion : Expecting value: line 1 column 1 (char 0)
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur de conversion : Expecting value: line 1 column 1 (char 0)
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur de conversion : Expecting value: line 1 column 1 (char 0)
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Server raised fault: 'Internal Error'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Server raised fault: 'Internal Error'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur de conversion : Expecting value: line 1 column 1 (char 0)
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Server raised fault: 'Internal Error'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Server raised fault: 'Internal Error'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Type not found: 'ns0:Adresse'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Type not found: 'ns0:Nom'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Server raised fault: 'Internal Error'
+Response for message 'Nom du Client: Alice Martin,
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France,
+Email: alice.martin@email.com,
+Numéro de Téléphone: +33 234 567 890,
+Montant du Prêt Demandé: 300000 EUR,
+Durée du Prêt: 30 ans,
+Description de la Propriété: Maison de ville avec terrasse et garage.,
+Revenu Mensuel: 7000 EUR,
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : Server raised fault: 'Internal Error'
+Response for message 'Nom du Client: Alice Martin
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France
+Email: alice.martin@email.com
+Numéro de Téléphone: +33 234 567 890
+Montant du Prêt Demandé: 300000 EUR
+Durée du Prêt: 30 ans
+Description de la Propriété: Maison de ville avec terrasse et garage.
+Revenu Mensuel: 7000 EUR
+Dépenses Mensuelles: 4000 EUR': {"R\u00e9ponse banque": false, "Description": "Nous ne pouvons pas accepter le cr\u00e9dit car vos d\u00e9penses mensuelles sont trop \u00e9lev\u00e9es. Le ratio de remboursement est trop risqu\u00e9."}
+Response for message 'Nom du Client: Alice Martin
+Adresse: 789 Boulevard Saint-Germain, 75006 Paris, France
+Email: alice.martin@email.com
+Numéro de Téléphone: +33 234 567 890
+Montant du Prêt Demandé: 300000 EUR
+Durée du Prêt: 30 ans
+Description de la Propriété: Maison de ville avec terrasse et garage.
+Revenu Mensuel: 7000 EUR
+Dépenses Mensuelles: 4000 EUR': Erreur lors de l'appel au service : <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>

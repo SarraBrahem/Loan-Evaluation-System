@@ -1,0 +1,7 @@
+clear; python .\watchdogService.py
+clear; python .\ServiceComposer.py
+clear; python .\DecisionApprovalService.py
+clear; python .\ProperityEvaluationService.py
+clear; python .\SolvapilityVerificationService.py
+clear; python .\TextMiningService.py
+streamlit run .\WatchdogService.py

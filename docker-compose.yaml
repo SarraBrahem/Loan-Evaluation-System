@@ -1,0 +1,50 @@
+version: "3.8"
+services:
+  extraction-service:
+    build:
+      context: ./
+      dockerfile: TextMining.dockerfile
+    ports:
+      - "8000:80"
+    networks:
+      - app-network
+
+  solvency-service:
+    build:
+      context: ./
+      dockerfile: SolvapilityVerification.dockerfile
+    ports:
+      - "8002:80"
+    networks:
+      - app-network
+
+  property-evaluation-service:
+    build:
+      context: ./
+      dockerfile: ProperityEvaluation.dockerfile
+    ports:
+      - "8009:80"
+    networks:
+      - app-network
+
+  approval-service:
+    build:
+      context: ./
+      dockerfile: DecisionApproval.dockerfile
+    ports:
+      - "8008:80"
+    networks:
+      - app-network
+
+  composer-service:
+    build:
+      context: ./
+      dockerfile: ServiceComposer.dockerfile
+    ports:
+      - "8004:80"
+    networks:
+      - app-network
+
+networks:
+  app-network:
+    driver: bridge
